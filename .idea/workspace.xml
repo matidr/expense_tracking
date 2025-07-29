@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e38328e4-891d-4d88-adf0-917a592afc0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/expenses.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/expense.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/expenses.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/expenses_list/expense_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/expenses_list/expenses_list.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expense_tracking.iml" beforeDir="false" afterPath="$PROJECT_DIR$/expense_tracking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/expenses.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +78,12 @@
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/widgets" />
+      <recent name="$PROJECT_DIR$/lib/widgets/expenses_list" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e38328e4-891d-4d88-adf0-917a592afc0b" name="Changes" comment="" />
