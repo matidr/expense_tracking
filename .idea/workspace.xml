@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e38328e4-891d-4d88-adf0-917a592afc0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/widgets/new_expense/new_expense.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/new_expense/new_expense_landscape.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/new_expense/new_expense_portrait.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widgets/expenses.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/expenses.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widgets/new_expense.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/new_expense/dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/new_expense/new_expense.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/new_expense/new_expense.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
