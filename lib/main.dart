@@ -11,11 +11,11 @@ var kDarkColorScheme = ColorScheme.fromSeed(
 );
 
 void main() {
-  runApp(const MyApp());
+  runApp(const ExpenseTrackingApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class ExpenseTrackingApp extends StatelessWidget {
+  const ExpenseTrackingApp({super.key});
 
   // This widget is the root of your application.
   @override
@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
             backgroundColor: kDarkColorScheme.primaryContainer,
-            foregroundColor: kDarkColorScheme.onPrimaryContainer
+            foregroundColor: kDarkColorScheme.onPrimaryContainer,
           ),
         ),
       ),

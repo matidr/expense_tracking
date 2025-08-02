@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e38328e4-891d-4d88-adf0-917a592afc0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deviceManager.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/chart/chart.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/chart/chart_bar.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/new_expense.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/new_expense/new_expense.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/new_expense/new_expense_landscape.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/new_expense/new_expense_portrait.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/models/expense.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/expense.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/widgets/expenses.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/expenses.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widgets/expenses_list/expense_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/expenses_list/expense_item.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widgets/expenses_list/expenses_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/expenses_list/expenses_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/new_expense.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,10 +79,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/widgets/new_expense" />
       <recent name="$PROJECT_DIR$/lib/widgets/chart" />
       <recent name="$PROJECT_DIR$/lib/widgets" />
       <recent name="$PROJECT_DIR$/lib/widgets/expenses_list" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" IS_LOCATION_SIMULATION_SUPPORTED="false" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -102,16 +108,5 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
     </layout>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/widgets/new_expense.dart</url>
-          <line>145</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
